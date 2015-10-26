@@ -1,0 +1,11 @@
+.DS_Store
+*~
+*.bak
+._*
+
+deu.*.tif
+deu.*.tr
+deu.*.box
+deu.*.txt
+*.otf
+*.ttf
